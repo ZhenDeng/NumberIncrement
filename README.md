@@ -1,8 +1,8 @@
 # NumberIncrement
 
-[![.react](https://img.shields.io/badge/react-16.7.0-yellow.svg)](https://github.com/angular)
+[![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+This project was generated with [React](https://github.com/facebook/react).
 
 ## Description
 
